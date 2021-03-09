@@ -1,0 +1,6 @@
+standard mAP: -0.0000164283
+standard total execution time (sec): 126398.12
+standard average execution time (sec): 21.71
+tiny mAP: 0.0000285192
+tiny total execution time (sec): 5278.89
+tiny average execution time (sec): 0.91
